@@ -115,6 +115,10 @@
   font-family: sans-serif;
 }
 
+#store .entry form, #store .entry form div {
+  display: inline;
+}
+
 #store .entry img {
   width: 80px;
   margin-right: 5px;
