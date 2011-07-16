@@ -104,6 +104,17 @@
 
 /* styles for the cart in the main page */
 
+#cart, #cart table {
+  font-size: smaller;
+  color: white;
+}
+
+#cart table {
+  border-top: 1px dotted #595;
+  border-bottom: 1px dotted #595;
+  margin-bottom: 10px;
+}
+
 #store .cart_title {
   font: 120% bold;
 }
